@@ -1,0 +1,25 @@
+{
+  "results": 5,
+  "data": [
+    {
+      "language": "java",
+      "version": "JDK 18.0.2"
+    },
+    {
+      "language": "c",
+      "version": "GCC 11.1.0"
+    },
+    {
+      "language": "cpp",
+      "version": "GCC 11.1.0"
+    },
+    {
+      "language": "python3",
+      "version": "3.9.9"
+    },
+    {
+      "language": "nodejs",
+      "version": "17.1.0"
+    }
+  ]
+}
